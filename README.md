@@ -6,7 +6,9 @@ Well, in the latest Kali 2025 release, trying to run Yersinia (yes, the Layer 2 
  “why is nothing compiling 😩”
 Don’t panic — I’ve gone full hacker/detective 🕵️‍♂️, collaborated with AI, debugged the errors, and voilà — it works! 🎉
 Here’s how to fix it and finally get Yersinia GUI running on Kali:
+
 💣 The Fix (5 mins):
+
 🛠️ 1. Install dependencies
 
 sudo apt update
